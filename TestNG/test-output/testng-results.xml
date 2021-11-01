@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-01T14:45:10 GMT+05:30" name="Default suite" finished-at="2021-11-01T14:45:51 GMT+05:30" duration-ms="40707">
+    <groups>
+    </groups>
+    <test started-at="2021-11-01T14:45:10 GMT+05:30" name="Default test" finished-at="2021-11-01T14:45:51 GMT+05:30" duration-ms="40707">
+      <class name="TestNGPractice.NewTestClassEx3">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:10 GMT+05:30" name="launchBrowser" finished-at="2021-11-01T14:45:19 GMT+05:30" duration-ms="8995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="register()[pri:0, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:19 GMT+05:30" name="register" finished-at="2021-11-01T14:45:20 GMT+05:30" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="text()[pri:1, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:20 GMT+05:30" name="text" finished-at="2021-11-01T14:45:20 GMT+05:30" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text -->
+        <test-method signature="addContactInformation()[pri:2, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:20 GMT+05:30" name="addContactInformation" finished-at="2021-11-01T14:45:33 GMT+05:30" duration-ms="12555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactInformation -->
+        <test-method signature="scrollDownWebpage()[pri:3, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:33 GMT+05:30" name="scrollDownWebpage" finished-at="2021-11-01T14:45:36 GMT+05:30" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownWebpage -->
+        <test-method signature="mailingInformation()[pri:4, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:36 GMT+05:30" name="mailingInformation" finished-at="2021-11-01T14:45:40 GMT+05:30" duration-ms="4523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailingInformation -->
+        <test-method signature="dropDown()[pri:5, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:40 GMT+05:30" name="dropDown" finished-at="2021-11-01T14:45:46 GMT+05:30" duration-ms="6230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method signature="userinfo()[pri:6, instance:TestNGPractice.NewTestClassEx3@2c35e847]" started-at="2021-11-01T14:45:46 GMT+05:30" name="userinfo" finished-at="2021-11-01T14:45:51 GMT+05:30" duration-ms="4302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userinfo -->
+      </class> <!-- TestNGPractice.NewTestClassEx3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
