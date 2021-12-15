@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 public class SeleniumTutEx1 {
 	public static void main(String[] args) throws InterruptedException{
 		System.out.println("just an example");
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ustjavasdetb413\\Downloads\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ACER\\Downloads\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		//url of web page 
 		driver.get("https://www.facebook.com/signup");
